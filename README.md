@@ -51,12 +51,13 @@ ISW_4K1_2022_Grupo6
 |Consigna de Trabajo Práctico       |Consigna_TP<Número de TP>.pdf|ISW_4K4_2023_Grupo8/Trabajos_Practicos/TP<Número de TP>|
 |Cronograma de la Asignatura         |Cronograma_ISW_4K4_2023.pdf|ISW_4K4_2023_Grupo8/ProgramaAsignatura|
 |Guías         |Guia_\<Actividad>.pdf|ISW_4K4_2023_Grupo8/Guias|
-|Material Bibliográfico          |[\<Tipo MB>]\_[\<Autores MB>]_<Nombre MB>.pdf|ISW_4K4_2023_Grupo8/Material_Bibliografico|
+|Material Complementario          |[\<Tipo MC>]\_[\<Autores MC>]_\<Nombre MC>.pdf|ISW_4K4_2023_Grupo8/Material_Complementario|
+|Material Bibliográfico          |[\<Tipo MB>]\_[\<Autores MB>]_\<Nombre MB>.pdf|ISW_4K4_2023_Grupo8/Material_Bibliografico|
 |Planificación de la Asignatura         |Planificacion_ISW_2023.pdf|ISW_4K4_2023_Grupo8/ProgramaAsignatura|
 |Presentación de Clase         |<Número Presentacion>_\<Tema>.pdf|ISW_4K4_2023_Grupo8/Teoria/Parcial<Número de Parcial>|
 |Resolución de Trabajo Conceptual|Resolución_TC<Número de TC>.<extensión>|ISW_4K4_2023_Grupo8/Trabajos_Conceptuales/TC<Número de TC>|
 |Resolución de Trabajo Práctico        |Resolución_TP<Número de TP>.pdf|ISW_4K4_2023_Grupo8/Trabajos_Practicos/TP<Número de TP>|
-|Template|Template_<Consigna>.docs|ISW_4K4_2023_Grupo8/Templates|
+|Template|Template_\<Consigna>.docx|ISW_4K4_2023_Grupo8/Templates|
 
 ### Glosario
 
@@ -64,15 +65,18 @@ ISW_4K1_2022_Grupo6
 | ------------------------------ | ---------------------------------------------------------------|
 |\<Actividad>  | Descripción de la tarea a desarrollar|
 |\<Autores MB>  |Listado de autores del material bibliográfico |
+|\<Autores MC>  |Listado de autores del material complementario |
 |\<Consigna>  | Plantilla práctica para resolución de ejercicios|
 | \<Extensión> | Nombre de la extensión de un archivo identificado como ítem de configuración|
 | \<Nombre MB> | Nombre del material bibliográfico|
+| \<Nombre MC> | Nombre del material bibliográfico|
 | <Número de Parcial> | Número de parcial de la materia|
 | <Número de TC> |Número de trabajo conceptual |
 | <Número de TP> |Número de trabajo práctico |
 | <Número Presentación> |Número de presentación de una clase teórica |
 | \<Tema> |Tema de la presentación de una clase teórica |
 | \<Tipo MB> |Tipo de material bibliográfico (Libro, Paper, Guía) |
+| \<Tipo MC> |Tipo de material bibliográfico (Libro, Paper, Guía) |
 
 ### Criterio de definición de la línea base
 
