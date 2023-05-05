@@ -53,7 +53,7 @@ ISW_4K1_2022_Grupo6
 |Guías         |Guia_\<Actividad>.pdf|ISW_4K4_2023_Grupo8/Guias|
 |Material Bibliográfico          |[\<Tipo MB>]\_[\<Autores MB>]_<Nombre MB>.pdf|ISW_4K4_2023_Grupo8/Material_Bibliografico|
 |Planificación de la Asignatura         |Planificacion_ISW_2023.pdf|ISW_4K4_2023_Grupo8/ProgramaAsignatura|
-|Presentación de Clase         |<Número Presentacion>_<Tema>.pdf|ISW_4K4_2023_Grupo8/Teoria/Parcial<Número de Parcial>|
+|Presentación de Clase         |<Número Presentacion>_\<Tema>.pdf|ISW_4K4_2023_Grupo8/Teoria/Parcial<Número de Parcial>|
 |Resolución de Trabajo Conceptual|Resolución_TC<Número de TC>.<extensión>|ISW_4K4_2023_Grupo8/Trabajos_Conceptuales/TC<Número de TC>|
 |Resolución de Trabajo Práctico        |Resolución_TP<Número de TP>.pdf|ISW_4K4_2023_Grupo8/Trabajos_Practicos/TP<Número de TP>|
 |Template|Template_<Consigna>.docs|ISW_4K4_2023_Grupo8/Templates|
