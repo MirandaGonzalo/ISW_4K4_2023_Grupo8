@@ -80,6 +80,6 @@ ISW_4K1_2022_Grupo6
 
 ### Criterio de definición de la línea base
 
-Se darán por probados y revisados los ítems de configuración un día antes de cada parcial de la materia.
+Se darán por probados y revisados los ítems de configuración un día después de cada parcial de la materia.
 
 ```
